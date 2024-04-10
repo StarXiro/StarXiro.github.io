@@ -443,7 +443,6 @@ html,
 body,
 #container {
   height: 100%;
-  cursor: url("/images/cursor/reimu-cursor-default.cur"), auto;
 }
 body {
   background: var(--color-background);
@@ -454,23 +453,6 @@ body {
   -o-transition: background 0.3s ease;
   -ms-transition: background 0.3s ease;
   transition: background 0.3s ease;
-}
-a {
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer !important;
-}
-.site-search input {
-  cursor: url("/images/cursor/reimu-cursor-text.cur"), text !important;
-}
-#main span,
-#main p,
-#main code,
-#main kbd,
-#main input,
-#main textarea {
-  cursor: url("/images/cursor/reimu-cursor-text.cur"), text !important;
-}
-#main nav span {
-  cursor: url("/images/cursor/reimu-cursor-default.cur"), auto !important;
 }
 .outer {
   zoom: 1;
@@ -793,7 +775,7 @@ a {
   height: 14px;
   padding: 20px 15px;
   position: relative;
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
 }
 [data-theme="dark"] .main-nav-link,
 [data-theme="dark"] .main-nav-icon,
@@ -838,7 +820,7 @@ a {
   -o-transition: -o-transform 1s ease;
   -ms-transition: -ms-transform 1s ease;
   transition: transform 1s ease;
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer !important;
+  cursor: pointer;
 }
 #main-nav-toggle {
   display: none;
@@ -1277,7 +1259,7 @@ a.article-title:hover {
   margin-right: 10px;
 }
 .article-share-link {
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
   float: right;
   margin-left: 20px;
   font-size: 14px;
@@ -2745,7 +2727,7 @@ pre .javascript .function {
   margin: 5px;
   z-index: 1;
   filter: invert(50%);
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
   color: #fff;
 }
 .code-lang {
@@ -2754,13 +2736,13 @@ pre .javascript .function {
   font-weight: bold;
   z-index: 1;
   filter: invert(50%);
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
 }
 .code-expand {
   margin: 5px;
   filter: invert(50%);
   z-index: 1;
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -3070,7 +3052,7 @@ pre .javascript .function {
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
-  cursor: url("/images/cursor/reimu-cursor-pointer.cur"), pointer;
+  cursor: pointer;
   padding-left: 15px;
   top: 10px;
 }
@@ -3108,7 +3090,6 @@ pre .javascript .function {
 }
 .reimu-powered {
   float: right;
-  cursor: url("/images/cursor/reimu-cursor-default.cur"), auto !important;
 }
 .reimu-powered img {
   display: inline-block;
