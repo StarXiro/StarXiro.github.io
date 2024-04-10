@@ -12,7 +12,7 @@
             <title>Markdown语法</title>
             <link>http://starxiro.github.io/2024/04/10/md%20language/</link>
             <pubDate>Wed, 10 Apr 2024 10:14:57 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;一-标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-标题&#34;&gt;#&lt;/a&gt; 一、标题&lt;/h2&gt;
+            <description><![CDATA[ &lt;h4 id=&#34;标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#标题&#34;&gt;#&lt;/a&gt; 标题&lt;/h4&gt;
 &lt;h5 id=&#34;方法一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法一&#34;&gt;#&lt;/a&gt; 方法一：&lt;/h5&gt;
 &lt;p&gt;标题按照 &lt;code&gt;#&lt;/code&gt; 的个数进行排列，最多支持六级。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
@@ -32,7 +32,7 @@
 二级标题
 -----
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;二-换行&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-换行&#34;&gt;#&lt;/a&gt; 二、换行&lt;/h2&gt;
+&lt;h4 id=&#34;换行&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#换行&#34;&gt;#&lt;/a&gt; 换行&lt;/h4&gt;
 &lt;h5 id=&#34;方法一-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法一-2&#34;&gt;#&lt;/a&gt; 方法一：&lt;/h5&gt;
 &lt;p&gt;使用 &lt;code&gt;双回车&lt;/code&gt; 换行。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
@@ -51,7 +51,7 @@
 &lt;p&gt;示例：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;原神，&amp;lt;br&amp;gt;启动！
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;三-字体相关&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三-字体相关&#34;&gt;#&lt;/a&gt; 三、字体相关&lt;/h2&gt;
+&lt;h4 id=&#34;字体相关&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#字体相关&#34;&gt;#&lt;/a&gt; 字体相关&lt;/h4&gt;
 &lt;h5 id=&#34;-加粗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#-加粗&#34;&gt;#&lt;/a&gt; - 加粗&lt;/h5&gt;
 &lt;p&gt;使用 &lt;code&gt;**&lt;/code&gt;  包裹文字。&lt;/p&gt;
 &lt;h5 id=&#34;-斜体&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#-斜体&#34;&gt;#&lt;/a&gt; - 斜体&lt;/h5&gt;
@@ -66,14 +66,14 @@
 ***这是斜体加粗的文字***
 ~~这是加删除线的文字~~
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;四-分割线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四-分割线&#34;&gt;#&lt;/a&gt; 四、分割线&lt;/h2&gt;
+&lt;h4 id=&#34;分割线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#分割线&#34;&gt;#&lt;/a&gt; 分割线&lt;/h4&gt;
 &lt;p&gt;使用大于等于三个的 &lt;code&gt;-、*或者_&lt;/code&gt; 进行分割。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
 ____
 *****
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;五-代码相关&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五-代码相关&#34;&gt;#&lt;/a&gt; 五、代码相关&lt;/h2&gt;
+&lt;h4 id=&#34;代码相关&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#代码相关&#34;&gt;#&lt;/a&gt; 代码相关&lt;/h4&gt;
 &lt;h5 id=&#34;单行代码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#单行代码&#34;&gt;#&lt;/a&gt; 单行代码&lt;/h5&gt;
 &lt;p&gt;使用 ` 包裹代码。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
@@ -91,7 +91,7 @@ ____
 &lt;pre&gt;&lt;code&gt;	这是一段代码。
 	这是一段代码。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;六-图片&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六-图片&#34;&gt;#&lt;/a&gt; 六、图片&lt;/h2&gt;
+&lt;h4 id=&#34;图片&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#图片&#34;&gt;#&lt;/a&gt; 图片&lt;/h4&gt;
 &lt;h5 id=&#34;使用图床&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#使用图床&#34;&gt;#&lt;/a&gt; 使用图床&lt;/h5&gt;
 &lt;p&gt;使用 &lt;code&gt;![图片描述](图片链接 &amp;quot;图片title&amp;quot;)&lt;/code&gt;  插入。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
@@ -101,16 +101,16 @@ ____
 &lt;p&gt;使用 &lt;code&gt;![图片描述](图片本地路径 &amp;quot;图片title&amp;quot;)&lt;/code&gt;  插入。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;略。&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;七-超链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#七-超链接&#34;&gt;#&lt;/a&gt; 七、超链接&lt;/h2&gt;
+&lt;h4 id=&#34;超链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#超链接&#34;&gt;#&lt;/a&gt; 超链接&lt;/h4&gt;
 &lt;p&gt;使用 &lt;code&gt;[超链接显示名](超链接地址 &amp;quot;超链接title&amp;quot;)&lt;/code&gt;  插入。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;[我的b站主页](https://space.bilibili.com/360598012)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://space.bilibili.com/360598012&#34;&gt;我的 b 站主页&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;八-缩进字符&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#八-缩进字符&#34;&gt;#&lt;/a&gt; 八、缩进字符&lt;/h2&gt;
+&lt;h4 id=&#34;缩进字符&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#缩进字符&#34;&gt;#&lt;/a&gt; 缩进字符&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;&amp;amp;nbsp;&lt;/code&gt;  缩进 1/2 字符（1/4 中文）&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&amp;amp;ensp;&lt;/code&gt;  缩进 1 字符（1/2 中文）&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;&amp;amp;emsp;&lt;/code&gt;  缩进 2 字符（1 中文）&lt;/p&gt;
-&lt;h2 id=&#34;九-列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#九-列表&#34;&gt;#&lt;/a&gt; 九、列表&lt;/h2&gt;
+&lt;h4 id=&#34;列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#列表&#34;&gt;#&lt;/a&gt; 列表&lt;/h4&gt;
 &lt;h5 id=&#34;无序列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#无序列表&#34;&gt;#&lt;/a&gt; 无序列表&lt;/h5&gt;
 &lt;p&gt;使用 &lt;code&gt;-、+或*加空格&lt;/code&gt; 插入。&lt;/p&gt;
 &lt;p&gt;示例：&lt;/p&gt;
@@ -127,9 +127,9 @@ ____
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h5 id=&#34;嵌套列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#嵌套列表&#34;&gt;#&lt;/a&gt; 嵌套列表&lt;/h5&gt;
 &lt;p&gt;没学会！下次一定。&lt;/p&gt;
-&lt;h2 id=&#34;十-表格&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#十-表格&#34;&gt;#&lt;/a&gt; 十、表格&lt;/h2&gt;
+&lt;h4 id=&#34;表格&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#表格&#34;&gt;#&lt;/a&gt; 表格&lt;/h4&gt;
 &lt;p&gt;懒得写！下次一定。&lt;/p&gt;
-&lt;h2 id=&#34;写在结尾&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#写在结尾&#34;&gt;#&lt;/a&gt; 写在结尾&lt;/h2&gt;
+&lt;h4 id=&#34;写在结尾&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#写在结尾&#34;&gt;#&lt;/a&gt; 写在结尾&lt;/h4&gt;
 &lt;p&gt;初版发布时间：2024/4/10 12:12:12&lt;br&gt;
  尾版发布时间：2024/4/10 12:12:12&lt;/p&gt;
  ]]></description>
