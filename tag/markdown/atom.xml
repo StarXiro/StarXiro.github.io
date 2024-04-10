@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://starxiro.github.io</id>
-    <title>StarXiro&#39;s Blog</title>
+    <title>StarXiro&#39;s Blog • Posts by &#34;markdown&#34; tag</title>
     <link href="http://starxiro.github.io" />
     <updated>2024-04-10T02:14:57.925Z</updated>
     <category term="markdown" />
@@ -134,15 +134,5 @@ ____
         <category term="markdown" />
         <category term="study" />
         <updated>2024-04-10T02:14:57.925Z</updated>
-    </entry>
-    <entry>
-        <id>http://starxiro.github.io/2024/04/09/the%20beginning/</id>
-        <title>一切的开始</title>
-        <link rel="alternate" href="http://starxiro.github.io/2024/04/09/the%20beginning/"/>
-        <content type="html">&lt;p&gt;欢迎来到 &lt;a href=&#34;https://cts-studio.icu/index&#34;&gt;Cts-studio&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;
-&lt;p&gt;喵喵喵喵喵喵喵喵喵 ο(=・ω＜=)ρ⌒☆&lt;/p&gt;
-</content>
-        <updated>2024-04-09T12:16:07.797Z</updated>
     </entry>
 </feed>

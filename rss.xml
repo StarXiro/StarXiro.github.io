@@ -7,10 +7,14 @@
         <language>zh-CN</language>
         <pubDate>Wed, 10 Apr 2024 10:14:57 +0800</pubDate>
         <lastBuildDate>Wed, 10 Apr 2024 10:14:57 +0800</lastBuildDate>
+        <category>markdown</category>
+        <category>study</category>
         <item>
             <guid isPermalink="true">http://starxiro.github.io/2024/04/10/md%20language/</guid>
             <title>Markdown语法</title>
             <link>http://starxiro.github.io/2024/04/10/md%20language/</link>
+            <category>markdown</category>
+            <category>study</category>
             <pubDate>Wed, 10 Apr 2024 10:14:57 +0800</pubDate>
             <description><![CDATA[ &lt;h4 id=&#34;标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#标题&#34;&gt;#&lt;/a&gt; 标题&lt;/h4&gt;
 &lt;h5 id=&#34;方法一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法一&#34;&gt;#&lt;/a&gt; 方法一：&lt;/h5&gt;

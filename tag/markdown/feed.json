@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "StarXiro's Blog",
+    "title": "StarXiro's Blog • All posts by \"markdown\" tag",
     "description": "a noob blog D:",
     "home_page_url": "http://starxiro.github.io",
     "items": [
@@ -14,14 +14,6 @@
                 "markdown",
                 "study"
             ]
-        },
-        {
-            "id": "http://starxiro.github.io/2024/04/09/the%20beginning/",
-            "url": "http://starxiro.github.io/2024/04/09/the%20beginning/",
-            "title": "一切的开始",
-            "date_published": "2024-04-09T12:16:07.797Z",
-            "content_html": "<p>欢迎来到 <a href=\"https://cts-studio.icu/index\">Cts-studio</a>!</p>\n<p>这是我的第一篇博客。</p>\n<p>喵喵喵喵喵喵喵喵喵 ο(=・ω＜=)ρ⌒☆</p>\n",
-            "tags": []
         }
     ]
 }
